@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about programming and technology. H
 <!-- Add a brief introduction about yourself -->
 I'm a software developer at Kandid Technologies as a Junior Software Developer. I have a passion for learning new technologies and solving problems. I enjoy working on open-source projects and collaborating with other developers.
 
-- 🔭 I’m currently working on **Email-Talk**
+- 🔭 I’m currently working on **Email-Talk** (Real time chat application).
 - 🌱 I’m currently learning **ReactJs, NodeJs, Python, MySQL**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, React Js, Node js, MySQL**
