@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm passionate about programming and technology. H
 
 <!-- Add the technologies and tools you work with -->
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Php-000?&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![React Js](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node Js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
