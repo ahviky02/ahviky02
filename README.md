@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about programming and technology. H
 <!-- Add your GitHub stats -->
 ![Avdhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahviky02&show_icons=true&theme=radical)
 
-![Avdhesh's GitHub stats](https://github-readme-streak-stats-wine-six.vercel.app?user=ahviky02&theme=vision-friendly-dark&border_radius=10&date=28-01-2025)
+![Avdhesh's GitHub stats](https://github-readme-streak-stats-wine-six.vercel.app?user=ahviky02&theme=vision-friendly-dark&border_radius=10&date=31-03-2025)
 
 
 
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about programming and technology. H
 ## 👨‍💻 About Me
 
 <!-- Add a brief introduction about yourself -->
-I'm a software developer at Kandid Technologies as a Coldfusion Developer and Software Developer. I have a passion for learning new technologies and solving problems. I enjoy working on open-source projects and collaborating with other developers.
+I'm a software developer at Kandid Technologies as a Junior Software Developer. I have a passion for learning new technologies and solving problems. I enjoy working on open-source projects and collaborating with other developers.
 
 - 🔭 I’m currently working on **Email-Talk**
 - 🌱 I’m currently learning **ReactJs, NodeJs, Python, MySQL**
