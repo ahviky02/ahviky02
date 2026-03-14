@@ -8,15 +8,17 @@
 
 ## 🚀 About Me
 
-Software Developer with **~2 years of experience** building scalable **SaaS-based HRM platforms**.
+Software Developer with **~2 years of experience** building intelligent, scalable **SaaS-based HRM platforms**.
 
-- 🏢 Currently working at **Aanandi TechnoSoft LLP** as Software Developer I
-- 🔭 Building an **Enterprise HRM System** serving **500+ users** — payroll, attendance, face recognition & more
-- 🤖 Integrated **biometric devices + face recognition** (Python) — reduced attendance processing time by **85%**
-- 💳 Implemented **Cashfree, WhatsApp Business API, Firebase** integrations in production
-- ☁️ Working with **AWS S3**, Laravel Cron Jobs, and REST APIs daily
+- 🏢 Currently at **Aanandi TechnoSoft LLP** as Software Developer I
+- 🤖 Built **GPT-powered HR Chatbot** (OpenAI API) in production
+- 👁️ Integrated **AWS Rekognition** for face enrollment & verification in production
+- 👥 HRM system serving **500+ users** — built 80%+ solo
+- ☁️ Working with **AWS S3, AWS Rekognition, Firebase** daily
+- 📲 Integrated **Cashfree, WhatsApp Business API** in production
 - 🌱 Currently learning **Apache Airflow, Data Engineering, PostgreSQL Advanced**
-- 💬 Ask me about **Laravel, Python, MERN Stack, HRM Systems, REST APIs**
+- 🎯 Transitioning into **Data Engineering**
+- 💬 Ask me about **Laravel, Python, OpenAI API, AWS, HRM Systems**
 - 📫 Reach me at: **avdheshky2002@gmail.com**
 
 ---
@@ -38,17 +40,25 @@ Software Developer with **~2 years of experience** building scalable **SaaS-base
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
 
+**AI & Cloud**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=OpenAI&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/-AWS%20Rekognition-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=ApacheAirflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 
-**Cloud & Integrations**
+**Integrations**
 
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 ![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20API-25D366?style=flat&logo=WhatsApp&logoColor=white)
+![Cashfree](https://img.shields.io/badge/-Cashfree%20API-00BAF2?style=flat&logo=Cash&logoColor=white)
 
 **Tools**
 
@@ -61,20 +71,23 @@ Software Developer with **~2 years of experience** building scalable **SaaS-base
 ## 🏆 Key Project
 
 ### 🏢 Enterprise HRM Software (SaaS) — Production Live
-> Built **80%+ of this system independently** | April 2025 – Present
+> Built **80%+ independently** | April 2025 – Present
 
 | Feature | Details |
 |---|---|
-| 👥 Users | 500+ active users across 4 role panels |
-| 🤖 Face Recognition | Python-based — 85% faster, 98% accurate |
-| 🖐️ Biometric Integration | ZKTeco hardware device sync to MySQL |
+| 👥 Users | 500+ active users across 4 role-based panels |
+| 🤖 GPT HR Chatbot | OpenAI API — salary, leave, attendance & policies in natural language |
+| 👁️ Face Recognition | AWS Rekognition — employee enrollment, face match & verification |
+| ⚙️ Biometric Device | ZKTeco hardware real-time MySQL sync |
 | 💰 Payroll | Automated salary calculation & payslip generation |
-| 💳 Payments | Cashfree API integration |
-| 📲 Notifications | WhatsApp Business API + Firebase push |
+| 💳 Payments | Cashfree Payment Gateway integration |
+| 📲 Notifications | WhatsApp Business API + Firebase push notifications |
 | ☁️ Storage | AWS S3 for documents & media |
-| ⏰ Automation | Laravel Cron Jobs for scheduled tasks |
+| ⏰ Automation | Laravel Cron Jobs for scheduled tasks & reports |
 
-**Tech Stack:** `Laravel` `Python` `MySQL` `AWS S3` `Node.js` `Tailwind CSS` `Firebase` `WhatsApp API` `Cashfree API` `REST APIs`
+**Tech Stack:**
+
+`Laravel` `Python` `OpenAI API` `AWS Rekognition` `AWS S3` `MySQL` `Node.js` `Tailwind CSS` `Firebase` `WhatsApp API` `Cashfree API` `REST APIs`
 
 ---
 
