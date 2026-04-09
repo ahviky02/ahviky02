@@ -13,7 +13,7 @@ Software Developer with **~2 years of experience** building intelligent, scalabl
 - 🏢 Currently at **Aanandi TechnoSoft LLP** as Software Developer I
 - 🤖 Built **GPT-powered HR Chatbot** (OpenAI API) in production
 - 👁️ Integrated **AWS Rekognition** for face enrollment & verification in production
-- 👥 HRM system serving **500+ users** — built 80%+ solo
+- 👥 HRM system serving **1000+ users** — built 80%+ solo
 - ☁️ Working with **AWS S3, AWS Rekognition, Firebase** daily
 - 📲 Integrated **Cashfree, WhatsApp Business API** in production
 - 🌱 Currently learning **Apache Airflow, Data Engineering, PostgreSQL Advanced**
