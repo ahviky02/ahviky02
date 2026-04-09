@@ -66,6 +66,7 @@ Software Developer with **2 years of experience** building intelligent, scalable
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white)
 
 ---
 
