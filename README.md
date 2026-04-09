@@ -59,6 +59,7 @@ Software Developer with **2 years of experience** building intelligent, scalable
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 ![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20API-25D366?style=flat&logo=WhatsApp&logoColor=white)
 ![Cashfree](https://img.shields.io/badge/-Cashfree%20API-00BAF2?style=flat&logo=Cash&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white)
 
 **Tools**
 
