@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Software Developer with **~2 years of experience** building intelligent, scalable **SaaS-based HRM platforms**.
+Software Developer with **2 years of experience** building intelligent, scalable **SaaS-based HRM platforms**.
 
 - 🏢 Currently at **Aanandi TechnoSoft LLP** as Software Developer I
 - 🤖 Built **GPT-powered HR Chatbot** (OpenAI API) in production
